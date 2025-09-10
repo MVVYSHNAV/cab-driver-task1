@@ -6,5 +6,4 @@ class Driver(Document):
         if self.driver_name.lower() == "sulaiman":
             frappe.throw("Sulaiman cannot be a valid driver")
 
-
-
+            
